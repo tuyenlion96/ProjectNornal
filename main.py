@@ -1,3 +1,4 @@
+# Just a comment
 def return_distance_handle(nums, target, start):
     __min_distance = 0
     # If the start value = index of target
